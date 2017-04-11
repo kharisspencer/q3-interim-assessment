@@ -1,0 +1,20 @@
+.sky{
+    background-color: #ffe6ff;
+}
+
+#orb{
+    height: 300px;
+    width: 300px;
+    border-radius: 100;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    padding: 20px;
+}
+
+.sun{
+    background-color: ffdd00;
+}
